@@ -1,0 +1,1 @@
+basicMath.o: ../basicMath.c
